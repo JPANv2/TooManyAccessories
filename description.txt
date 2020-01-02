@@ -1,0 +1,14 @@
+This mod allows you to increase your stats by using the vanity armor and accessories slots as well as your hotbar and your inventory.
+
+It adds 8 new accessories, crafted with Expert mode drops, that allow you to increase your armor and accessory count to obscene levels.
+
+- The Vanity Accessory Enabler, when equipped in an active accessory slot, allows you to receive accessory/armor effects from accessories/armors in your vanity slots;
+- The Hotbar Accessory Enabler, when equipped in an active accessory slot, allows you to receive accessory/armor effects from accessories/armors in your hotbar;
+- The Lowest Row Acessory Enabler, when equipped in an active accessory slot, allows you to receive accessory/armor effects from accessories/armors in your lowest row of inventory;
+- The Two Lowest Rows Acessory Enabler, when equipped in an active accessory slot, allows you to receive accessory/armor effects from accessories/armors in your two lowest rows of inventory;
+- The Almost Full Inventory Acessory Enabler, when equipped in an active accessory slot, allows you to receive accessory/armor effects from accessories/armors in any but the topmost (the one below the hotbar) row of inventory;
+- The Full Inventory Acessory Enabler, when equipped in an active accessory slot, allows you to receive accessory/armor effects from accessories/armors in any row of inventory (except hotbar);
+- The Total Accessory Enabler, when equipped in an active accessory slot, allows you to receive accessory/armor effects from any inventory, hotbar or vanity slots.
+- The Chest Accessory Enabler must first be configured by using it (left click) on any chest, Piggybank, Safe and Defender's forge included. Afterwards, equip it on any active accessory slot to have that chest's content added to your stats. It is limited by config (with the default being disabled, or 0), and every chest is processed only once, but you can share chests with other players.
+ - Also, Chest Accessory Enabler must be reconfiged every time you enter a world (it does not save the chest it's on, for sanity reasons), so every time you enter a world, you must open the chest with the accessories and use the Chest Enabler on it.
+This is, in no way, a balanced mod. Consider it a less cheaty alternative to other similar mods.
